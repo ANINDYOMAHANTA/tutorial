@@ -1,4 +1,4 @@
 # tutorial
 learning git repo.
 <br>
-author - Anindyo
+author - Anindyo Mahanta
